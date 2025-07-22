@@ -1,2 +1,2 @@
-# notepadV2
-Best open source notepad application
+# Notepad V2
+Best open source Notepad application
